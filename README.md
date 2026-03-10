@@ -27,11 +27,4 @@ Curious about cloud computing and data science, always learning.
 
 ---
 
-### 📊 GitHub Stats
-
-![Erandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EraRamirez&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 *Projects that solve real problems · Growing every day*
-
