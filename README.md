@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Erandi Ramírez
 
-<!--
-**EraRamirez/EraRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Engineer · CDMX
 
-Here are some ideas to get you started:
+I turn complex problems into clean, maintainable solutions. Computer Systems Engineering student @ IPN, building modern web apps with a user-centric approach—performance, accessibility, and clear interfaces matter to me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious about cloud computing and data science, always learning.
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Also:** Zustand · Chart.js · D3.js · Framer Motion · REST APIs
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eramireza1705/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramirezayalaerandi@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Erandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EraRamirez&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+*Projects that solve real problems · Growing every day*
+
