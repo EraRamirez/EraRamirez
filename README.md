@@ -28,3 +28,5 @@ Curious about cloud computing and data science, always learning.
 ---
 
 *Projects that solve real problems · Growing every day*
+
+<img src="https://raw.githubusercontent.com/EraRamirez/EraRamirez/output/snake.svg" alt="Snake animation" />
