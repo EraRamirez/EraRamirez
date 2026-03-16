@@ -22,7 +22,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-dark&color_snake=%23ffb6c1
+
+      - name: make squares circular
+        run: |
+          cd dist
+          sed -i 's/rx="2" ry="2"/rx="6" ry="6"/g' snake.svg
+          sed -i 's/rx="4.5" ry="4.5"/rx="7.2" ry="7.2"/g' snake.svg
+          sed -i 's/rx="4.1" ry="4.1"/rx="6.15" ry="6.15"/g' snake.svg
+          sed -i 's/rx="3.6" ry="3.6"/rx="5.4" ry="5.4"/g' snake.svg
+          sed -i 's/rx="3.3" ry="3.3"/rx="4.95" ry="4.95"/g' snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
