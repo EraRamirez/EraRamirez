@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Erandi Ramírez
+# Hi, I'm Erandi Ramírez
 
 ## Frontend Engineer · CDMX
 
@@ -20,13 +20,13 @@ Curious about cloud computing and data science, always learning.
 
 ---
 
-### 📊 Activity
+### Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EraRamirez&theme=dark&hide_border=true" alt="Streak" width="50%" />
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eramireza1705/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramirezayalaerandi@gmail.com)
