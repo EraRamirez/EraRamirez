@@ -1,7 +1,7 @@
 # Hi, I'm Erandi Ramírez 👋
 ## Software Engineer · Technical Liaison · Customer Success Mindset 🚀
 
-I am a Software Engineer specialized in building high-performance, responsive, and user-centric production web platforms[cite: 2]. My experience ranges from developing public e-commerce conversion sites to engineering internal CRM-style administration dashboards and complex kiosk point-of-sale systems. 
+I am a Software Engineer specialized in building high-performance, responsive, and user-centric production web platforms. My experience ranges from developing public e-commerce conversion sites to engineering internal CRM-style administration dashboards and complex kiosk point-of-sale systems. 
 
 Beyond writing clean, maintainable code, I excel at acting as a technical bridge—translating complex stakeholder requirements into functional frontend architectures, collaborating with cross-functional teams, and performing root-cause analysis to support production environments.
 
