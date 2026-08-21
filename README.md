@@ -53,12 +53,6 @@ Real, screenshotted production case studies — kiosk UX, checkout flows, admin 
 
 ---
 
-### 📊 GitHub Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EraRamirez&theme=dark&hide_border=true" alt="Streak" width="50%" />
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eramireza1705/)
